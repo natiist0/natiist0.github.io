@@ -1,0 +1,14 @@
+
+            body {
+                background-color: rgba(164, 37, 255, 0.519);
+            }
+            p {
+                color: midnightblue;
+                font-size: x-small;
+            }
+            h1 {
+                font-family: sans-serif;
+            }
+            .escarcha { 
+                font-size: 100px;
+            }
